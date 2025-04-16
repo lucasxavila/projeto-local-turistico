@@ -1,0 +1,72 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+.headline {
+  font-weight: bold;
+  color: #E1624F;
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 36px;
+  color: #1B1B1B;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+
+.subtitle {
+  font-style: italic;
+  text-align: center;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 40px 0;
+  background-color: #d9d9d9;
+}
+
+.story {
+  font-weight: bold;
+  color: #0C51A7;
+}
+
+.couples {
+  font-weight: bold;
+  color: #591B98; 
+}
+
+.families {
+  font-weight: bold;
+  color: #E5245E; 
+}
+
+.budget {
+  font-weight: bold;
+  color: #E95E10; 
+}
+
+footer {
+  font-family: "Alice", serif; 
+  color: #333333;
+  text-align: center;
+  padding-bottom: 22px;
+}
+
+footer img {
+  vertical-align: middle;
+  width: auto;
+}
