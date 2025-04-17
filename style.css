@@ -1,6 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
+}
+
+main {
+  margin: 5%;
 }
 
 .headline {
@@ -12,14 +21,19 @@ body {
 h1 {
   font-size: 36px;
   color: #1B1B1B;
+  padding: 8px 0 40px 0;
 }
 
 h2 {
   font-size: 32px;
+  padding-top: 2px;
+  padding-bottom: 8px;
 }
 
 h3 {
   font-size: 28px;
+  padding-top: 20px;
+  padding-left: 24px;
 }
 
 img {
@@ -30,6 +44,7 @@ img {
 .subtitle {
   font-style: italic;
   text-align: center;
+  padding-top: 24px;
 }
 
 .divider {
@@ -37,6 +52,14 @@ img {
   height: 1px;
   margin: 40px 0;
   background-color: #d9d9d9;
+}
+
+#tittle-list {
+  padding-bottom: 64px;
+}
+
+ul {
+  padding: 0 0 48px 24px;
 }
 
 .story {
@@ -59,11 +82,16 @@ img {
   color: #E95E10; 
 }
 
+.description {
+  text-align: center;
+  padding-bottom: 59px;
+}
+
 footer {
   font-family: "Alice", serif; 
   color: #333333;
   text-align: center;
-  padding-bottom: 22px;
+  padding-bottom: 47px;
 }
 
 footer img {
