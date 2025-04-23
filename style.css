@@ -69,17 +69,17 @@ ul {
 
 .couples {
   font-weight: bold;
-  color: #591B98; 
+  color: #591B98;
 }
 
 .families {
   font-weight: bold;
-  color: #E5245E; 
+  color: #E5245E;
 }
 
 .budget {
   font-weight: bold;
-  color: #E95E10; 
+  color: #E95E10;
 }
 
 .description {
@@ -88,7 +88,7 @@ ul {
 }
 
 footer {
-  font-family: "Alice", serif; 
+  font-family: "Alice", serif;
   color: #333333;
   text-align: center;
   padding-bottom: 47px;
