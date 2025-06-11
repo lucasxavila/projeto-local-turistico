@@ -1,4 +1,4 @@
-# Projeto Página Turística: Conheça Busan
+# Projeto - Página Turística: Conheça Busan
 
 Este repositório contém uma página web simples desenvolvida com HTML e CSS, com foco em apresentar atrações turísticas na cidade de Busan, Coreia do Sul.
 
@@ -7,9 +7,9 @@ Este repositório contém uma página web simples desenvolvida com HTML e CSS, c
 A página tem como objetivo destacar três destinos históricos e culturais imperdíveis em Busan. Com layout responsivo e tipografia elegante, o projeto oferece uma experiência visual agradável para usuários 
 interessados em conhecer mais sobre a cidade.
 
-### Funcionalidades
+### A interface inclui:
 
-- Apresentação introdutória sobre Busan;
+- Introdução geral sobre a cidade de Busan;
 - Destaque para 3 atrações turísticas com imagens e descrições:
   - Templo Haedong Yonggungsa;
   - Templo Beomeo-sa;
@@ -17,11 +17,32 @@ interessados em conhecer mais sobre a cidade.
 - Informações categorizadas por tipo de visitante (história, casais, famílias, orçamento);
 - Estilo visual customizado com Google Fonts.
 
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3 (com flexbox)
+- Google Fonts (Marcellus, Open Sans)
+- Estrutura responsiva
+
+## Estrutura de Pastas
+  ```bash
+  ├── assets/
+  │   └── images/        # Imagens
+  ├── styles/
+  │   └── style.css      # Estilização principal
+  └── index.html         # Página principal
+  ```
+
 ## Como Executar
 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/lucasxavila/projeto-local-turistico.git
+   ```
 2. Navegue até o diretório do projeto:
    ```bash
    cd projeto-local-turistico
+   ```
+
+## Status do Projeto
+Projeto realizado no curso Fullstack - Rocketseat e finalizado como parte de prática educacional, com o objetivo de aplicar conhecimentos em HTML e CSS no desenvolvimento de páginas temáticas e responsivas.
