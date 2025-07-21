@@ -1,5 +1,9 @@
 # Projeto - Página Turística: Conheça Busan
 
+<p align="center">
+  <img width="1297" height="976" alt="Captura de tela 2025-07-21 182603" src="https://github.com/user-attachments/assets/8a2e4879-74de-4a76-9928-9cded3d5fd49" />
+</p>
+
 Este repositório contém uma página web simples desenvolvida com HTML e CSS, com foco em apresentar atrações turísticas na cidade de Busan, Coreia do Sul.
 
 ## Descrição
