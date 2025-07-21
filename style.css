@@ -6,6 +6,11 @@
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
+  justify-items: center;
+}
+
+#page {
+  max-width: 1500px;
 }
 
 main {
